@@ -202,3 +202,24 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+@media screen and (max-width: 992px){
+    .hero{
+       
+        width: auto;
+    }
+    .benefits{
+        width:100%;
+      
+    }
+}
+
+@media screen and (max-width: 768px){
+    .hero{
+        width: 100%;
+        
+    }
+    .benefits{
+        width:100%;
+    }
+}
