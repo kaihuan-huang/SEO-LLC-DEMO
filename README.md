@@ -16,6 +16,7 @@ performance for efficient website access.
 - Added accessible ****alt attributes to icon and image ****elements.
 
 - Added a descriptive title "Horiseon" to the website
+
 - Modified the heading attributes.
 
 - Make elements responsive so that the web application is optimized for any screen size.
