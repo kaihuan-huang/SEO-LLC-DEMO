@@ -20,3 +20,5 @@ performance for efficient website access.
 - Modified the heading attributes.
 
 - Make elements responsive so that the web application is optimized for any screen size.
+
+- Changed the year from 2019 to 2022.
